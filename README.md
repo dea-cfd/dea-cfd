@@ -31,9 +31,15 @@ Here are some ideas to get you started:
  -->
  
 ## Find me on the web :
+<!--
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+-->
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://guineerealite.info/wp-content/uploads/2019/07/logo-twitter-circle-png-transparent-image-1.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+
 [<img align="left" alt="codeSTACKr | Researchgate" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png" />][Researchgate]
 <br />
 <!-- Optional -->
