@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 [<img align="left" alt="codeSTACKr | Researchgate" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png" />][Researchgate]
+
+[<img align="left" alt="codeSTACKr.com" width="520px" src="https://media-exp1.licdn.com/dms/image/C4D16AQFdSfYXr_YdYg/profile-displaybackgroundimage-shrink_350_1400/0/1628166342474?e=1633564800&v=beta&t=oPBuzw_3iJpzuiiIJQt89UJAk7XYMc6MruqnPSU7hKs" />][mywork]
 <br />
 <!-- Optional -->
 <!-- ## Find me on the web -->
@@ -51,8 +53,8 @@ Here are some ideas to get you started:
 [Researchgate]: https://www.researchgate.net/profile/Dahia-Chibouti/
 
 
-[<img align="left" alt="codeSTACKr.com" width="220px" src="https://media-exp1.licdn.com/dms/image/C4D16AQFdSfYXr_YdYg/profile-displaybackgroundimage-shrink_350_1400/0/1628166342474?e=1633564800&v=beta&t=oPBuzw_3iJpzuiiIJQt89UJAk7XYMc6MruqnPSU7hKs" />][MyWork]
+
 <br />
-[MyWork]:https://www.linkedin.com/in/dahia-chibouti/detail/background-image/
+[mywork]: https://www.linkedin.com/in/dahia-chibouti/detail/background-image/
 
 
