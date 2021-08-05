@@ -1,4 +1,6 @@
-### Hi there! 👋  I'm Dahia Chibouti, a PhD student in Computational Fluid Mechanics at Université Gustave Eiffel, :pushpin: France :fr:.
+### Hi there! 👋  
+<br />
+# I'm Dahia Chibouti, a PhD student in Computational Fluid Mechanics at Université Gustave Eiffel, :pushpin: France :fr:.
 
 <!--
 **dchibouti/dchibouti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
