@@ -56,7 +56,5 @@ Here are some ideas to get you started:
 
 ## My Work's field in one image :
 
-<img width=“964” alt=“java 8 and prio java 8  array review example” src="https://media-exp1.licdn.com/dms/image/C4D16AQFdSfYXr_YdYg/profile-displaybackgroundimage-shrink_350_1400/0/1628166342474?e=1633564800&v=beta&t=oPBuzw_3iJpzuiiIJQt89UJAk7XYMc6MruqnPSU7hKs">
-
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 23”>
+<img width="964" alt="java 8 and prio java 8  array review example" src="https://media-exp1.licdn.com/dms/image/C4D16AQFdSfYXr_YdYg/profile-displaybackgroundimage-shrink_350_1400/0/1628166342474?e=1633564800&v=beta&t=oPBuzw_3iJpzuiiIJQt89UJAk7XYMc6MruqnPSU7hKs">
 
