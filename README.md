@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 [Researchgate]: https://www.researchgate.net/profile/Dahia-Chibouti/
 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D16AQFdSfYXr_YdYg/profile-displaybackgroundimage-shrink_350_1400/0/1628166342474?e=1633564800&v=beta&t=oPBuzw_3iJpzuiiIJQt89UJAk7XYMc6MruqnPSU7hKs" />][MyWork]
-[MyWork]:
+[<img align="left" alt="codeSTACKr.com" width="220px" src="https://media-exp1.licdn.com/dms/image/C4D16AQFdSfYXr_YdYg/profile-displaybackgroundimage-shrink_350_1400/0/1628166342474?e=1633564800&v=beta&t=oPBuzw_3iJpzuiiIJQt89UJAk7XYMc6MruqnPSU7hKs" />][MyWork]
+<br />
+[MyWork]:https://www.linkedin.com/in/dahia-chibouti/detail/background-image/
 
 
