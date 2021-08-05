@@ -36,14 +36,15 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- 
+[<img align="left" alt="codeSTACKr.com" width="520px" src="https://media-exp1.licdn.com/dms/image/C4D16AQFdSfYXr_YdYg/profile-displaybackgroundimage-shrink_350_1400/0/1628166342474?e=1633564800&v=beta&t=oPBuzw_3iJpzuiiIJQt89UJAk7XYMc6MruqnPSU7hKs" />][mywork]
 -->
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.anapadova.it/wp-content/uploads/2019/09/iconwebsite.png" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://guineerealite.info/wp-content/uploads/2019/07/logo-twitter-circle-png-transparent-image-1.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Researchgate" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png" />][Researchgate]
-<!-- 
-[<img align="left" alt="codeSTACKr.com" width="520px" src="https://media-exp1.licdn.com/dms/image/C4D16AQFdSfYXr_YdYg/profile-displaybackgroundimage-shrink_350_1400/0/1628166342474?e=1633564800&v=beta&t=oPBuzw_3iJpzuiiIJQt89UJAk7XYMc6MruqnPSU7hKs" />][mywork]
--->
+
 <br />
 <!-- Optional -->
 <!-- ## Find me on the web -->
@@ -52,8 +53,9 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/dahia-chibouti/
 [Researchgate]: https://www.researchgate.net/profile/Dahia-Chibouti/
 
-<br />
-// last method
+
+## My Work's field in one image :
+
 <img width=“964” alt=“java 8 and prio java 8  array review example” src="https://media-exp1.licdn.com/dms/image/C4D16AQFdSfYXr_YdYg/profile-displaybackgroundimage-shrink_350_1400/0/1628166342474?e=1633564800&v=beta&t=oPBuzw_3iJpzuiiIJQt89UJAk7XYMc6MruqnPSU7hKs">
 
 
