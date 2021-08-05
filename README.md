@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <br />
 <!-- Optional -->
 <!-- ## Find me on the web -->
-[website]: https://google.com
-[twitter]: https://twitter.com/dchibouti
+[website]: https://dahia-chibouti.site123.me/
+[twitter]: https://twitter.com/dchibouti/
 [linkedin]: https://www.linkedin.com/in/dahia-chibouti/
 [Researchgate]: https://www.researchgate.net/profile/Dahia-Chibouti/
 
