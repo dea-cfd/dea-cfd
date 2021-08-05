@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning LAMMPS and Machine learning for CFD modeling.
 * 🔭 I’m interested in Fluid Dynamics, CFD, Modeling, Heat Transfer, ML applied to fluid dynamics as well as several other mechanical and aerospace engineering related areas.
 *  :seedling: I’m currently working on *slip problems in micro-systems*, *Fluid-Structure Interaction*, *Computational Fluid Dynamics(CFD)*, *Molecular Dynamics (MD)*.
-*  :revolving_hearts: I’m looking to collaborate on machine learning applied for coupling CFD to MD.
+*  :revolving_hearts: I’m traying to apply machine learning for coupling CFD and MD.
 *  :mailbox: Feel free to contact me at: dchibouti@gmail.com
 
 
