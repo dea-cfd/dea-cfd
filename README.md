@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.anapadova.it/wp-content/uploads/2019/09/iconwebsite.png" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!--[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://th.bing.com/th/id/R.0af7abc6bfa537fdd08ed300a8915063?rik=enRbSeN7x3qVMA&riu=http%3a%2f%2fwww.texber.com%2fwp-content%2fuploads%2f2020%2f04%2flogo-Linkedin-1.png&ehk=5ZGIe6g1MbAZmO6wVVi%2bId1H21GAyUS2tTZ55NDndXQ%3d&risl=&pid=ImgRaw&r=0)" />][linkedin]-->
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dahia-chibouti/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Researchgate" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png" />][Researchgate]
 <br />
 <!-- Optional -->
