@@ -1,15 +1,15 @@
 ## Hi there! 👋  
 <br />
 
-### I'm Dahia Chibouti, a PhD student in Computational Fluid Mechanics at Université Gustave Eiffel, :pushpin: France :fr:.
+### I'm Dahia Chibouti, a Doctor in Computational Fluid Mechanics, :pushpin: France :fr:.
 
 <!--
 **dchibouti/dchibouti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning LAMMPS and Machine learning for CFD modeling.
-- 🔭 I’m interested in Fluid Dynamics, CFD, Modeling, Heat Transfer, ML applied to fluid dynamics as well as several other mechanical and aerospace engineering related areas.
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine learning for CFD modeling.
+- 🔭 I’m interested in Computational Fluid Mechanics (CFD), Aerodynamics, Aeroacoustics, ML applied to fluid dynamics as well as several other mechanical and aerospace engineering related areas.
+- 👯 I’m looking to collaborate on Machine learning for aerodynamics topics...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
