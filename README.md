@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* :memo: I’m currently learning LAMMPS and Machine learning for CFD modeling.
-* 🔭 I’m interested in Fluid Dynamics, CFD, Modeling, Heat Transfer, ML applied to fluid dynamics as well as several other mechanical and aerospace engineering related areas.
-*  :seedling: I’m currently working on *slip problems in micro-systems*, *Fluid-Structure Interaction*, *Computational Fluid Dynamics(CFD)*, *Molecular Dynamics (MD)*.
-*  :revolving_hearts: I’m traying to apply *machine learning* for coupling **CFD and MD**.
+* :memo: I’m currently learning Machine learning for CFD modeling..
+* 🔭 I’m interested in Computational Fluid Mechanics (CFD), Aerodynamics, Aeroacoustics, ML applied to fluid dynamics as well as several other mechanical and aerospace engineering related areas.
+*  :seedling: I’m currently working on *aeroacoustics*, *Computational Fluid Dynamics(CFD)*, *Fluid-Structure Interaction*.
+*  :revolving_hearts: I’m traying to apply *machine learning* for coupling **CFD**.
+*  👯 I’m looking to collaborate on Machine learning for aerodynamics topics...
 *  :mailbox: Feel free to contact me at: dchibouti@gmail.com
 
 
