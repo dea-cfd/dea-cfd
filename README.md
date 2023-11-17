@@ -33,7 +33,9 @@ Here are some ideas to get you started:
  
 ## My Work's field in one image :
 
-<img width="964" alt="java 8 and prio java 8  array review example" src="https://media-exp1.licdn.com/dms/image/C4D16AQFdSfYXr_YdYg/profile-displaybackgroundimage-shrink_350_1400/0/1628166342474?e=1633564800&v=beta&t=oPBuzw_3iJpzuiiIJQt89UJAk7XYMc6MruqnPSU7hKs">
+<!--<img width="964" alt="java 8 and prio java 8  array review example" src="[https://enteknograte.com/wp-content/uploads/2020/09/helicopter-Swashplate-rotor-blade-MBD-FEA-Simulation-abaqus-ansys-MSC-adams-simpack-FEA-CFD.mp4](https://www.youtube.com/watch?v=-6aR37Z6hig)"> -->
+
+<img src="https://enteknograte.com/wp-content/uploads/2022/05/eVTOL-Acoustics-Noise-Electric-Vertical-Take-Off-Landing-CFD-FEA-Acoustics-Crash-Ansys-Abaqus-Nastran-Siemens-MSC-Hexagon-2.png"> 
  
 ## Find me on the web :
 <!--
