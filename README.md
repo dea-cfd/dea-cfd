@@ -35,8 +35,11 @@ Here are some ideas to get you started:
 
 <!--<img width="964" alt="java 8 and prio java 8  array review example" src="[https://enteknograte.com/wp-content/uploads/2020/09/helicopter-Swashplate-rotor-blade-MBD-FEA-Simulation-abaqus-ansys-MSC-adams-simpack-FEA-CFD.mp4](https://www.youtube.com/watch?v=-6aR37Z6hig)"> -->
 
-<img src="https://enteknograte.com/wp-content/uploads/2022/05/eVTOL-Acoustics-Noise-Electric-Vertical-Take-Off-Landing-CFD-FEA-Acoustics-Crash-Ansys-Abaqus-Nastran-Siemens-MSC-Hexagon-2.png"> 
+<!--<img src="https://enteknograte.com/wp-content/uploads/2022/05/eVTOL-Acoustics-Noise-Electric-Vertical-Take-Off-Landing-CFD-FEA-Acoustics-Crash-Ansys-Abaqus-Nastran-Siemens-MSC-Hexagon-2.png"> 
  <!--<p><tiny>e-VTOL (Enteknograte copyright)*</tiny></p>-->
+
+<img src="[https://enteknograte.com/wp-content/uploads/2022/05/eVTOL-Acoustics-Noise-Electric-Vertical-Take-Off-Landing-CFD-FEA-Acoustics-Crash-Ansys-Abaqus-Nastran-Siemens-MSC-Hexagon-2.png](https://drive.google.com/file/d/1u3vAeaBSlvZbmitdgJCWShRkC6jmdVbx/view?usp=sharing)"> -->
+ <!--<p><tiny>D. Chibouti (copyright)*</tiny></p>-->
  
 ## Find me on the web :
 <!--
