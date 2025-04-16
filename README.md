@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 *  :seedling: I’m currently working on *aeroacoustics*, *Computational Fluid Dynamics(CFD)*, *Fluid-Structure Interaction*.
 *  :revolving_hearts: I’m traying to apply *machine learning* for coupling **CFD**.
 *  👯 I’m looking to collaborate on Machine learning for aerodynamics topics...
+ <!--
 *  :mailbox: Feel free to contact me at: dchibouti@gmail.com
-
+ -->
 
 <!-- Also feel free to update second URL to any URL -->
 
